@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/dwh/TalkServer/Talk/build/src/server",
+  "command": "/usr/bin/g++   -I/home/dwh/TalkServer/Talk/include -I/home/dwh/TalkServer/Talk/include/server -I/home/dwh/TalkServer/Talk/include/server/db -I/home/dwh/TalkServer/Talk/include/server/model -I/home/dwh/TalkServer/Talk/include/server/redis -I/home/dwh/TalkServer/Talk/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/ChatServer.cpp.o -c /home/dwh/TalkServer/Talk/src/server/ChatServer.cpp",
+  "file": "/home/dwh/TalkServer/Talk/src/server/ChatServer.cpp"
+},
+{
+  "directory": "/home/dwh/TalkServer/Talk/build/src/server",
+  "command": "/usr/bin/g++   -I/home/dwh/TalkServer/Talk/include -I/home/dwh/TalkServer/Talk/include/server -I/home/dwh/TalkServer/Talk/include/server/db -I/home/dwh/TalkServer/Talk/include/server/model -I/home/dwh/TalkServer/Talk/include/server/redis -I/home/dwh/TalkServer/Talk/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/ChatService.cpp.o -c /home/dwh/TalkServer/Talk/src/server/ChatService.cpp",
+  "file": "/home/dwh/TalkServer/Talk/src/server/ChatService.cpp"
+},
+{
+  "directory": "/home/dwh/TalkServer/Talk/build/src/server",
+  "command": "/usr/bin/g++   -I/home/dwh/TalkServer/Talk/include -I/home/dwh/TalkServer/Talk/include/server -I/home/dwh/TalkServer/Talk/include/server/db -I/home/dwh/TalkServer/Talk/include/server/model -I/home/dwh/TalkServer/Talk/include/server/redis -I/home/dwh/TalkServer/Talk/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/dwh/TalkServer/Talk/src/server/main.cpp",
+  "file": "/home/dwh/TalkServer/Talk/src/server/main.cpp"
+},
+{
+  "directory": "/home/dwh/TalkServer/Talk/build/src/server",
+  "command": "/usr/bin/g++   -I/home/dwh/TalkServer/Talk/include -I/home/dwh/TalkServer/Talk/include/server -I/home/dwh/TalkServer/Talk/include/server/db -I/home/dwh/TalkServer/Talk/include/server/model -I/home/dwh/TalkServer/Talk/include/server/redis -I/home/dwh/TalkServer/Talk/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/FriendModel.cpp.o -c /home/dwh/TalkServer/Talk/src/server/model/FriendModel.cpp",
+  "file": "/home/dwh/TalkServer/Talk/src/server/model/FriendModel.cpp"
+},
+{
+  "directory": "/home/dwh/TalkServer/Talk/build/src/server",
+  "command": "/usr/bin/g++   -I/home/dwh/TalkServer/Talk/include -I/home/dwh/TalkServer/Talk/include/server -I/home/dwh/TalkServer/Talk/include/server/db -I/home/dwh/TalkServer/Talk/include/server/model -I/home/dwh/TalkServer/Talk/include/server/redis -I/home/dwh/TalkServer/Talk/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/GroupModel.cpp.o -c /home/dwh/TalkServer/Talk/src/server/model/GroupModel.cpp",
+  "file": "/home/dwh/TalkServer/Talk/src/server/model/GroupModel.cpp"
+},
+{
+  "directory": "/home/dwh/TalkServer/Talk/build/src/server",
+  "command": "/usr/bin/g++   -I/home/dwh/TalkServer/Talk/include -I/home/dwh/TalkServer/Talk/include/server -I/home/dwh/TalkServer/Talk/include/server/db -I/home/dwh/TalkServer/Talk/include/server/model -I/home/dwh/TalkServer/Talk/include/server/redis -I/home/dwh/TalkServer/Talk/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/OfflineMessageModel.cpp.o -c /home/dwh/TalkServer/Talk/src/server/model/OfflineMessageModel.cpp",
+  "file": "/home/dwh/TalkServer/Talk/src/server/model/OfflineMessageModel.cpp"
+},
+{
+  "directory": "/home/dwh/TalkServer/Talk/build/src/server",
+  "command": "/usr/bin/g++   -I/home/dwh/TalkServer/Talk/include -I/home/dwh/TalkServer/Talk/include/server -I/home/dwh/TalkServer/Talk/include/server/db -I/home/dwh/TalkServer/Talk/include/server/model -I/home/dwh/TalkServer/Talk/include/server/redis -I/home/dwh/TalkServer/Talk/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/UserModel.cpp.o -c /home/dwh/TalkServer/Talk/src/server/model/UserModel.cpp",
+  "file": "/home/dwh/TalkServer/Talk/src/server/model/UserModel.cpp"
+},
+{
+  "directory": "/home/dwh/TalkServer/Talk/build/src/server",
+  "command": "/usr/bin/g++   -I/home/dwh/TalkServer/Talk/include -I/home/dwh/TalkServer/Talk/include/server -I/home/dwh/TalkServer/Talk/include/server/db -I/home/dwh/TalkServer/Talk/include/server/model -I/home/dwh/TalkServer/Talk/include/server/redis -I/home/dwh/TalkServer/Talk/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/Redis.cpp.o -c /home/dwh/TalkServer/Talk/src/server/redis/Redis.cpp",
+  "file": "/home/dwh/TalkServer/Talk/src/server/redis/Redis.cpp"
+},
+{
+  "directory": "/home/dwh/TalkServer/Talk/build/src/client",
+  "command": "/usr/bin/g++   -I/home/dwh/TalkServer/Talk/include -I/home/dwh/TalkServer/Talk/include/server -I/home/dwh/TalkServer/Talk/include/server/db -I/home/dwh/TalkServer/Talk/include/server/model -I/home/dwh/TalkServer/Talk/include/server/redis -I/home/dwh/TalkServer/Talk/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/dwh/TalkServer/Talk/src/client/main.cpp",
+  "file": "/home/dwh/TalkServer/Talk/src/client/main.cpp"
+}
+]

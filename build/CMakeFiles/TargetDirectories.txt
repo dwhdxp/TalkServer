@@ -1,0 +1,10 @@
+/home/dwh/TalkServer/Talk/build/CMakeFiles/rebuild_cache.dir
+/home/dwh/TalkServer/Talk/build/CMakeFiles/edit_cache.dir
+/home/dwh/TalkServer/Talk/build/src/CMakeFiles/rebuild_cache.dir
+/home/dwh/TalkServer/Talk/build/src/CMakeFiles/edit_cache.dir
+/home/dwh/TalkServer/Talk/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/dwh/TalkServer/Talk/build/src/server/CMakeFiles/edit_cache.dir
+/home/dwh/TalkServer/Talk/build/src/server/CMakeFiles/ChatServer.dir
+/home/dwh/TalkServer/Talk/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/dwh/TalkServer/Talk/build/src/client/CMakeFiles/edit_cache.dir
+/home/dwh/TalkServer/Talk/build/src/client/CMakeFiles/ChatClient.dir
